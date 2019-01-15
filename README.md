@@ -1,7 +1,3 @@
-# 
-
-Test questions completed by Vaughn de Villiers
-
 ## Getting Started
 
 ### Prerequisites
@@ -18,7 +14,7 @@ OR
 pip install pandas
 ```
 
-## Running the tests for Questions 1 and 2
+### Running the tests for Questions 1 and 2
 
 ```
 python -m unittest question_2.py
