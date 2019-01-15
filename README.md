@@ -17,7 +17,7 @@ pip install pandas
 ### Running the tests for Questions 1 and 2
 
 ```
-python -m unittest question_2.py
+python -m unittest question_1.py
 ```
 
 ```
